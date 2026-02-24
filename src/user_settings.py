@@ -8,6 +8,7 @@ SOURCE_URLS = [
     "https://t.me/s/prrofile_purple",
     "https://t.me/s/DirectVPN",
     "https://t.me/s/persianvpnhub",
+    "https://t.me/v2nodes",
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
     "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
